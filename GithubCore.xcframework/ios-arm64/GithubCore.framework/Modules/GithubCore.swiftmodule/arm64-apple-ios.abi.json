@@ -1,0 +1,115 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "GithubCore",
+    "printedName": "GithubCore",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GithubCore",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "GithubCore",
+        "printedName": "GithubCore",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(environment:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "GithubCore",
+                "printedName": "GithubCore.GithubCore",
+                "usr": "s:10GithubCoreAAV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:10GithubCoreAAV11environmentABSS_tcfc",
+            "mangledName": "$s10GithubCoreAAV11environmentABSS_tcfc",
+            "moduleName": "GithubCore",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "getUrl",
+            "printedName": "getUrl()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10GithubCoreAAV6getUrlSSyF",
+            "mangledName": "$s10GithubCoreAAV6getUrlSSyF",
+            "moduleName": "GithubCore",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:10GithubCoreAAV",
+        "mangledName": "$s10GithubCoreAAV",
+        "moduleName": "GithubCore",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/nyanlintun\/iOS-Basic\/day20\/GithubCore\/GithubCore\/GithubCore.swift",
+      "kind": "StringLiteral",
+      "offset": 168,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/nyanlintun\/iOS-Basic\/day20\/GithubCore\/GithubCore\/GithubCore.swift",
+      "kind": "StringLiteral",
+      "offset": 214,
+      "length": 12,
+      "value": "\"production\""
+    }
+  ]
+}
