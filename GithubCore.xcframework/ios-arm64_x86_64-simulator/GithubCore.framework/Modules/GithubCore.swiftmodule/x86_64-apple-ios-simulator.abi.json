@@ -67,6 +67,29 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getGithubUsers",
+            "printedName": "getGithubUsers()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10GithubCoreAAV03getA5Users10Foundation4DataVyYaKF",
+            "mangledName": "$s10GithubCoreAAV03getA5Users10Foundation4DataVyYaKF",
+            "moduleName": "GithubCore",
+            "declAttributes": [
+              "AccessControl",
+              "Custom"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Struct",

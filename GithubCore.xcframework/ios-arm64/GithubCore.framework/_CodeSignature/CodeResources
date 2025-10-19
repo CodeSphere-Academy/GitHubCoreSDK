@@ -10,11 +10,11 @@
 		</data>
 		<key>Modules/GithubCore.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		T3RBv5YnGGqo3uoNjOXOO72CRlw=
+		nLhFdsAxDirpZ2tRjRkQ+mXWxNA=
 		</data>
 		<key>Modules/GithubCore.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		HpyWYHrrnkUgWfO/BLygOrZOCVQ=
+		uK6AyDw9+X4VxIKyFTzmj0+A8Tw=
 		</data>
 		<key>Modules/GithubCore.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/GithubCore.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		HpyWYHrrnkUgWfO/BLygOrZOCVQ=
+		uK6AyDw9+X4VxIKyFTzmj0+A8Tw=
 		</data>
 		<key>Modules/GithubCore.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ZI5MMeAjNPZaeQnBZ6Do5xjHYa8=
+		9YVygTvnROuZAFCmgKX3DP/kzNM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -35,14 +35,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fuMiBCJ7hGiZJRRWK5BYbcV8otDTmll+OyF4IvWuglY=
+			cO99IjZ1j/jbUz4alu7wHGsR6Bo5zB/OAcSOfXktxH8=
 			</data>
 		</dict>
 		<key>Modules/GithubCore.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+P5lHEkv5+H6BYJ/a6P6xREiw8ZmbgBNnnOYQigjp+w=
+			3b9B4SSGLN1SYigCy1tGErM36FkeNtscqdXwR7PVJkM=
 			</data>
 		</dict>
 		<key>Modules/GithubCore.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -56,14 +56,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+P5lHEkv5+H6BYJ/a6P6xREiw8ZmbgBNnnOYQigjp+w=
+			3b9B4SSGLN1SYigCy1tGErM36FkeNtscqdXwR7PVJkM=
 			</data>
 		</dict>
 		<key>Modules/GithubCore.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tyss42fUeHReb5C54F0Sv/SjBmGn13kufHMxtWpiyUU=
+			k/4QPrqNw9HoJZMYzfHZHi9uXBBITJ/i80vOrZz3Xho=
 			</data>
 		</dict>
 	</dict>

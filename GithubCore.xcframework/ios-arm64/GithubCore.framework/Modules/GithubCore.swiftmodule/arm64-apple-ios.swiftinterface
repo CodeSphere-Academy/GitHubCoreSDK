@@ -10,4 +10,5 @@ import _SwiftConcurrencyShims
 public struct GithubCore {
   public init(environment: Swift.String = "production")
   public func getUrl() -> Swift.String
+  @_Concurrency.MainActor public func getGithubUsers() async throws -> Foundation.Data
 }
