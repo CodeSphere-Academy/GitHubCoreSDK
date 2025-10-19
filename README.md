@@ -17,6 +17,8 @@ import GithubCore
 
 let urlString = GithubCore().getUrl()
 print(urlString) // e.g., "https://github.com/…"
+
+let githubUsers = try await GithubCore().getGithubUsers()
 ```
 
 `getUrl()` returns a `String` containing the GitHub URL provided by the framework.
